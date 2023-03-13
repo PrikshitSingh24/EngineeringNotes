@@ -1,16 +1,26 @@
-# notess
+# EngineeringNotess..
+This app contains notes,currently of our college of 1st and 2nd semester. You can download the app for android from the 
+EngineeringNotes folder
 
-A new Flutter project.
 
-## Getting Started
+# Home page......
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/99068054/224708495-53dab88d-d4b9-42c5-b0c4-06c451e0b2c8.mp4
 
-A few resources to get you started if this is your first Flutter project:
+# Branches and Semester window....
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://user-images.githubusercontent.com/99068054/224709040-d0ec9ab2-52eb-49be-bc50-e2f11fa02076.mp4
+
+
+# All the notes of semester 1  and 2 are stored in firebase fire storage.......
+
+
+
+https://user-images.githubusercontent.com/99068054/224710029-77172842-72ff-4c62-b94e-9a4f08a7039d.mp4
+
+
+
+Rest of the notes are being uploaded.........
+
+# Thank you
