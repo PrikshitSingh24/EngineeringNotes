@@ -1,6 +1,6 @@
 # EngineeringNotess..
-This app contains notes,currently of our college of 1st and 2nd semester. You can download the app for android from the 
-EngineeringNotes folder
+This app contains notes,currently of our college of 1st and 2nd semester. The app will be published in playstore in the coming future.
+
 
 
 # Home page......
